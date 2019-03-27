@@ -1,2 +1,2 @@
 # CI-Static
-#Set up jenkins with PHPUnit using docker
+# Set up jenkins with PHPUnit using docker
