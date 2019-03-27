@@ -10,5 +10,15 @@ class TestNumber extends TestCase {
         14,
         "should be fourteen"
     );
-    }
+ }
+   
+  function testNumberequals2() {
+        
+    $this->assertEquals(
+        14,
+        14,
+        "should be fourteen"
+    );
+ }
+   
 }
